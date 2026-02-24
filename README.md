@@ -10,15 +10,19 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects 
 
-CoffeeJoy - (https://github.com/Riky-Droyg/coffeejoy-project)- created a page about coffee where you can learn the history and also order it landing page with built with Javascript, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
-Animals - (riky-droyg.github.io/animals-project/) - created a page about animals that need help and that can be adopted , with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.  
+[CoffeeJoy Quality] — Team Project (Front-end Developer)(https://github.com/Riky-Droyg/coffeejoy-project) - created a page about coffee where you can learn the history and also order it landing page with built with Javascript, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
+Live: https://riky-droyg.github.io/coffeejoy-project/
+
+- [Paws’ Little Home] - ( https://github.com/Riky-Droyg/paws-little-home) Team Project - created a page about animals that need help and that can be adopted , with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology. 
+Live: https://riky-droyg.github.io/paws-little-home/
+
 
 
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-[LinkedIn] (https://www.linkedin.com/in/%D1%80%D1%83%D1%81%D0%BB%D0%B0%D0%BD-%D0%BB%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA-93147a252/)
+[LinkedIn] (www.linkedin.com/in/ruslanlynnyk/)
 [Telegram] (https://t.me/ruslan_lynnyk)
 [Email]  (ruslinnik99@gmail.com)
 <!--
